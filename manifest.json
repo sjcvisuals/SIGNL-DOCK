@@ -7,6 +7,12 @@
       "folder": "SIGNL_2.8.0",
       "zipUrl": "https://github.com/sjcvisuals/SIGNL.ONE/raw/refs/heads/main/SIGNL_2.8.0.zip",
       "sha256": ""
+    },
+    {
+      "version": "2.9.0",
+      "folder": "SIGNL_2.9.0",
+      "zipUrl": "https://github.com/sjcvisuals/SIGNL.ONE/raw/refs/heads/main/SIGNL_2.9.0.zip",
+      "sha256": ""
     }
   ]
 }
